@@ -1,5 +1,6 @@
 %define	_theme	grey
 Summary:	A dark, light on resources, modified default E17 theme using grey-ish colors
+Summary(pl):	Ciemny, ale z jasnymi zasobami, zmodyfikowany domy¶lny motyw E17 z szarawymi kolorami
 Name:		enlightenment-theme-%{_theme}
 Version:	2006.07.19	
 Release:	1
@@ -13,7 +14,12 @@ BuildArch:	noarch
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
 %description
-A dark, light on resources, modified default E17 theme using grey-ish colors.
+A dark, light on resources, modified default E17 theme using grey-ish
+colors.
+
+%description -l pl
+Ciemny, ale z jasnymi zasobami, zmodyfikowany domy¶lny motyw E17 z
+szarawymi kolorami.
 
 %prep
 
