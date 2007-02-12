@@ -1,6 +1,6 @@
 %define	_theme	grey
 Summary:	A dark, light on resources, modified default E17 theme using grey-ish colors
-Summary(pl.UTF-8):   Ciemny, ale z jasnymi zasobami, zmodyfikowany domyślny motyw E17 z szarawymi kolorami
+Summary(pl.UTF-8):	Ciemny, ale z jasnymi zasobami, zmodyfikowany domyślny motyw E17 z szarawymi kolorami
 Name:		enlightenment-theme-%{_theme}
 Version:	2006.07.19	
 Release:	1
